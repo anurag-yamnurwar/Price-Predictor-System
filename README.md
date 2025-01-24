@@ -1,6 +1,1 @@
 # Portfolio Website
-
-
-
-
-
